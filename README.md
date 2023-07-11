@@ -79,3 +79,11 @@ While these controls should be implemented immediately, it's important to recogn
 
   *  <b>General Data Protection Regulation (GDPR):</b> If Botium Toys conducts business with customers located in the European Union (E.U.), it must adhere to GDPR guidelines. GDPR focuses on protecting the personal data of individuals within the E.U., including consent management, data protection, and privacy rights.
 
+  # Internal Audit Process
+
+  The internal audit process will consist of two main components: controls assessment and compliance checklist.
+
+  # Control Assessment 
+
+  The controls assessment phase will involve a thorough review of the company's existing security controls.
+
