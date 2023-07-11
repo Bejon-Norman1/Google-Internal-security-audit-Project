@@ -106,6 +106,20 @@ While these controls should be implemented immediately, it's important to recogn
 ![Screenshot 2023-07-11 030202](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/3167d920-89e2-4f3f-933b-53551a34a295)
 ![Screenshot 2023-07-11 030238](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/1e525fb0-2333-4d1a-b2ed-a3289e08275e)
 
+# Compliance Checklist 
+
+To address the company's compliance requirements, a compliance checklist will be developed. I will select the compliance regulations and standards that Botium Toys needs to adhere to and explain why the company needs to adhere to the selected compliance regulations and standards. 
+
+![Screenshot 2023-07-11 132006](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/109e1fab-ec64-401c-92c1-0186aa306808)
+![Screenshot 2023-07-11 132036](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/e9be299c-5047-4c09-81a8-28f1191872aa)
+![Screenshot 2023-07-11 132106](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/dc02f6bc-6083-4196-9b20-f3cc8eee77fc)
+![Screenshot 2023-07-11 132123](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/ac03b321-46b3-4810-902f-6a626b976d24)
+
+
+
+
+
+
 
 
 
