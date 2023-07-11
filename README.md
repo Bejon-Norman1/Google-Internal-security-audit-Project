@@ -57,13 +57,13 @@ After thoroughly examining the audit scope, goals, and risk assessment, I have p
 
 2. Which controls are most essential to implement immediately versus in the future?
 
-   *  <b>Asset management:</b> Establish a comprehensive asset management system to track and manage all company assets, including hardware, software, and data. This control helps ensure accountability, identify vulnerabilities, and maintain an up-to-date inventory of assets.
+  *  <b>Asset management:</b> Establish a comprehensive asset management system to track and manage all company assets, including hardware, software, and data. This control helps ensure accountability, identify vulnerabilities, and maintain an up-to-date inventory of assets.
 
-   *  <b>Access controls:</b> Implement robust access controls across the company's systems and applications. This includes strong authentication mechanisms, role-based access controls (RBAC), and regular review of user access privileges. Adequate access controls prevent unauthorized individuals from accessing sensitive information and systems.
+  *  <b>Access controls:</b> Implement robust access controls across the company's systems and applications. This includes strong authentication mechanisms, role-based access controls (RBAC), and regular review of user access privileges. Adequate access controls prevent unauthorized individuals from accessing sensitive information and systems.
 
-   *  <b>Patch management:</b> Develop and enforce a patch management process to keep software and systems up to date with the latest security patches. Regular patching reduces the risk of known vulnerabilities being exploited by attackers.
+  *  <b>Patch management:</b> Develop and enforce a patch management process to keep software and systems up to date with the latest security patches. Regular patching reduces the risk of known vulnerabilities being exploited by attackers.
 
-   *  <b>Network security:</b> Implement network security measures such as firewalls, intrusion detection and prevention systems (IDPS), and network segmentation. These controls help protect the company's network infrastructure from unauthorized access, malware, and other network-based attacks.
+  *  <b>Network security:</b> Implement network security measures such as firewalls, intrusion detection and prevention systems (IDPS), and network segmentation. These controls help protect the company's network infrastructure from unauthorized access, malware, and other network-based attacks.
 
 While these controls should be implemented immediately, it's important to recognize that security is an ongoing process. Some controls that may be essential for future implementation include:
 
