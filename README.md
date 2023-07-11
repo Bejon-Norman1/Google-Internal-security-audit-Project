@@ -85,5 +85,15 @@ While these controls should be implemented immediately, it's important to recogn
 
   # Control Assessment 
 
-  The controls assessment phase will involve a thorough review of the company's existing security controls.
+  The controls assessment phase will involve a thorough review of the company's existing security controls. Such as:
+  
+ 1. Reviewing the list of Botium Toys’ assets
+  
+ 2. Reviewing each control name 
+  
+ 3. Reviewing the control types and explanation  
+
+ 4. Marking an X next to each control that needs to be implemented
+
+ 5. Note levels of priority (high, medium, and/or low; NA if not applicable)
 
