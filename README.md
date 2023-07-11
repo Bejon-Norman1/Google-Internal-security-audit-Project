@@ -47,7 +47,7 @@ Botium Toys IT Manager
 
 After thoroughly examining the audit scope, goals, and risk assessment, I have provided my insights and responses to the following questions, which were provided by Google:
 
-1. What are the biggest risks to the organization?
+1). What are the biggest risks to the organization?
 
   * <b>Inadequate management of assets:</b> The lack of proper asset management practices poses a significant risk to Botium Toys. It can result in inefficiencies, data loss, unauthorized access, and compromise the overall security of the company's infrastructure.
 
@@ -55,7 +55,7 @@ After thoroughly examining the audit scope, goals, and risk assessment, I have p
 
   * <b>Non-compliance with regulations:</b> Botium Toys needs to ensure compliance with relevant regulations to protect customer and vendor data, avoid fines, and maintain a good reputation. The company expresses concerns about complying with U.S. and international regulations and guidelines, particularly related to accepting online payments and conducting business in the European Union (E.U.).
 
-2. Which controls are most essential to implement immediately versus in the future?
+2). Which controls are most essential to implement immediately versus in the future?
 
   *  <b>Asset management:</b> Establish a comprehensive asset management system to track and manage all company assets, including hardware, software, and data. This control helps ensure accountability, identify vulnerabilities, and maintain an up-to-date inventory of assets.
 
@@ -73,7 +73,7 @@ While these controls should be implemented immediately, it's important to recogn
 
   *  <b>Encryption and data protection:</b> Implement encryption mechanisms to protect sensitive data at rest and in transit. This control ensures that customer and vendor data remains secure even if it is compromised or intercepted.
 
-3. Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
+3). Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
 
   *  <b>Payment Card Industry Data Security Standard (PCI DSS):</b> If Botium Toys accepts payment cards, it must comply with PCI DSS requirements. This standard ensures the secure handling, processing, and storage of payment card information.
 
@@ -96,4 +96,7 @@ While these controls should be implemented immediately, it's important to recogn
  4. Marking an X next to each control that needs to be implemented
 
  5. Note levels of priority (high, medium, and/or low; NA if not applicable)
+
+![Screenshot 2023-07-11 025813](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/b2e6a2a8-25a2-46de-b8ea-d755ed975f13)
+
 
