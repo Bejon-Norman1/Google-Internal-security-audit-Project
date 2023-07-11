@@ -115,6 +115,10 @@ To address the company's compliance requirements, a compliance checklist will be
 ![Screenshot 2023-07-11 132106](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/dc02f6bc-6083-4196-9b20-f3cc8eee77fc)
 ![Screenshot 2023-07-11 132123](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/ac03b321-46b3-4810-902f-6a626b976d24)
 
+# Conclusion 
+
+In conclusion, this scenario provided valuable insights on how to conduct an internal security audit for a company, specifically highlighting the importance of addressing business continuity, compliance, and infrastructure security. By implementing the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) as a foundation and following key steps such as scoping, goal-setting, risk assessment, controls assessment, and compliance checklist, an effective internal security audit can be conducted. This scenario emphasized the significance of identifying potential risks, assessing existing security controls, and ensuring compliance with relevant regulations. Through this experience, I have gained a deeper understanding of the critical components involved in conducting a comprehensive internal security audit and the role it plays in enhancing an organization's security posture and mitigating potential threats.
+
 
 
 
