@@ -102,6 +102,12 @@ While these controls should be implemented immediately, it's important to recogn
 ![Screenshot 2023-07-11 025916](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/47835f68-fc2e-44c7-9696-a23b0770d159)
 ![Screenshot 2023-07-11 030002](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/5f9242d2-0eeb-471a-8844-4f7927a93eb3)
 ![Screenshot 2023-07-11 030057](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/d350a1e5-fea4-46ea-9d8e-28b0b43a431e)
+![Screenshot 2023-07-11 030127](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/96f6ce64-c2e6-49c6-8021-29b61d5e1d31)
+![Screenshot 2023-07-11 030202](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/3167d920-89e2-4f3f-933b-53551a34a295)
+![Screenshot 2023-07-11 030238](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/1e525fb0-2333-4d1a-b2ed-a3289e08275e)
+
+
+
 
 
 
