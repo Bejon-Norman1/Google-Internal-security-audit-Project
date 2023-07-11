@@ -98,5 +98,14 @@ While these controls should be implemented immediately, it's important to recogn
  5. Note levels of priority (high, medium, and/or low; NA if not applicable)
 
 ![Screenshot 2023-07-11 025813](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/b2e6a2a8-25a2-46de-b8ea-d755ed975f13)
+![Screenshot 2023-07-11 025841](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/e40a4d86-a9e3-4917-a29a-f24345693561)
+![Screenshot 2023-07-11 025916](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/47835f68-fc2e-44c7-9696-a23b0770d159)
+![Screenshot 2023-07-11 030002](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/5f9242d2-0eeb-471a-8844-4f7927a93eb3)
+![Screenshot 2023-07-11 030057](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/assets/19808403/d350a1e5-fea4-46ea-9d8e-28b0b43a431e)
+
+
+
+
+
 
 
