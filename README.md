@@ -45,3 +45,17 @@ Risks:
 Thank you,
 Botium Toys IT Manager
 
+After thoroughly examining the audit scope, goals, and risk assessment, I have provided my insights and responses to the following questions, which were provided by Google:
+
+1. What are the biggest risks to the organization?
+
+  * Inadequate management of assets: The lack of proper asset management practices poses a significant risk to Botium Toys. It can result in inefficiencies, data loss, unauthorized access, and compromise the overall security of the company's infrastructure.
+
+  * Insufficient controls: The absence of essential controls leaves Botium Toys vulnerable to various threats. It increases the risk of unauthorized access to critical assets, malware infections, and data breaches. Without proper controls in place, the company's systems and data are more susceptible to compromise.
+
+  * Non-compliance with regulations: Botium Toys needs to ensure compliance with relevant regulations to protect customer and vendor data, avoid fines, and maintain a good reputation. The company expresses concerns about complying with U.S. and international regulations and guidelines, particularly related to accepting online payments and conducting business in the European Union (E.U.).
+
+2. Which controls are most essential to implement immediately versus in the future?
+
+3. Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
+
