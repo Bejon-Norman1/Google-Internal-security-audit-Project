@@ -75,3 +75,7 @@ While these controls should be implemented immediately, it's important to recogn
 
 3. Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
 
+  *  <b>Payment Card Industry Data Security Standard (PCI DSS):</b> If Botium Toys accepts payment cards, it must comply with PCI DSS requirements. This standard ensures the secure handling, processing, and storage of payment card information.
+
+  *  <b>General Data Protection Regulation (GDPR):</b> If Botium Toys conducts business with customers located in the European Union (E.U.), it must adhere to GDPR guidelines. GDPR focuses on protecting the personal data of individuals within the E.U., including consent management, data protection, and privacy rights.
+
